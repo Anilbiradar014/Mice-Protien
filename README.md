@@ -13,5 +13,5 @@ t-CS-s: trisomy mice, stimulated to learn, injected with saline (7 mice)<br/>
 t-CS-m: trisomy mice, stimulated to learn, injected with memantine (9 mice)<br/>
 t-SC-s: trisomy mice, not stimulated to learn, injected with saline (9 mice)<br/>
 t-SC-m: trisomy mice, not stimulated to learn, injected with memantine (9 mice)<br/>
-<br/><br/>
+<br/>
 The aim is to identify subsets of proteins that are discriminant between the classes.
